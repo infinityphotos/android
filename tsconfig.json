@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "target": "ESNext",
+    "allowJs": false,
+    "noEmit": true,
+    "moduleResolution": "node",
+    "lib": ["DOM", "ESNext"]
+  },
+  "files": ["App.tsx"],
+  "extends": "expo/tsconfig.base"
+}
